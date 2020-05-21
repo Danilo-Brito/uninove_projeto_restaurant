@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+
+  <string-array name="foods">
+      <item>ArrozCarne</item>
+      <item>Feijoada</item>
+      <item>Muqueca</item>
+      <item>Macarrão</item>
+      <item>Salada</item>
+      <item>ViradoPaulista</item>
+  </string-array>
+    
+    <string-array name="description">
+        <item>Arroz com legumes com carne de panela.</item>
+        <item>Feijoada com arroz branco, couve e farofa.</item>
+        <item>Muqueca de camarão cozido ao leite de coco com pimentão.</item>
+        <item>Macarrão com molho bolonhesa.</item>
+        <item>Salada de legumes com tabule.</item>
+        <item>Tutu de feijão com arroz branco, bisteca, couve refogada, ovo e bacon.</item>
+    </string-array>
+</resources>
