@@ -3,13 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:elevation="1dp"
     tools:context=".dessertMnu">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/dessert_recyclerview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Dessert Fragment"
-        android:background="@color/design_default_color_secondary_variant"/>
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
 
 </FrameLayout>

@@ -50,17 +50,17 @@ public class foodMnu extends Fragment {
         }
 
         lstFood = new ArrayList<>();
-        lstFood.add(new Food("Arroz com legumes", "Arroz com legumes com carne de panela.",
+        lstFood.add(new Food("Arroz com legumes", "Arroz com legumes e carne de panela.",
                 "20.00",R.drawable.arroz));
-        lstFood.add(new Food("Feijoada","Feijoada com arroz branco, couve e farofa.",
+        lstFood.add(new Food("Feijoada","Feijoada com arroz branco.",
                 "30.00",R.drawable.feijoada));
-        lstFood.add(new Food("Muqueca","Muqueca de camarão cozido ao leite de coco com pimentão.",
+        lstFood.add(new Food("Muqueca","Muqueca de camarão.",
                 "30.00",R.drawable.moqueca));
         lstFood.add(new Food("Macarrão","Macarrão com molho bolonhesa.",
                 "35.00",R.drawable.pasta));
         lstFood.add(new Food("Salada","Salada de legumes com tabule.",
                 "10.00",R.drawable.salada));
-        lstFood.add(new Food("Virado Paulista","Tutu de feijão com arroz branco, bisteca, couve refogada, ovo e bacon.",
+        lstFood.add(new Food("Virado Paulista","Tutu de feijão com arroz branco.",
                 "15.00",R.drawable.virado));
     }
 
